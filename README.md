@@ -1,11 +1,11 @@
 # DarkTeal
 DarkTeal is a dark theme for Blender, base on Modern Minimalist theme.
 
-##Screenshot
+## Screenshot
 
 ![alt text](https://github.com/phuctk93/DarkTeal/raw/master/Screenshot.png "DarkTeal")
 
-##How To Use
+## How To Use
 - Download (Click Clone or download green button -> Download ZIP) or clone this project by git
 ```bash
 git clone https://github.com/phuctk93/DarkTeal.git
